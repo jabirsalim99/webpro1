@@ -1,0 +1,34 @@
+#img1{
+    width: 150px;
+    height: 150px;
+}
+h1{
+    text-align: center;
+    margin-top: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#d1{
+    float: left;
+    padding: 130px;
+    margin-top: -100px;    
+}
+#d3{
+    margin-left: 100p;
+    
+    
+}
+video{
+    margin-left: 120px;
+    margin-top: -100px;
+}
+#d4{
+    margin-top: 500px ;
+    margin-left:500px ;
+}
+#d1:hover{
+    color: black;
+}
+p{
+    font-size: larger;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
